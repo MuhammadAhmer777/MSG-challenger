@@ -1,0 +1,10 @@
+[
+ {"keywords":["market","find","near","nearby"],"answer":"You can use Find a Market or the Market Directory to filter markets by area, day and produce. Try Gulshan-e-Iqbal, DHA Phase 6 or Clifton."},
+ {"keywords":["tomato","tomatoes"],"answer":"Tomatoes are listed as a year-round produce item and appear at several FreshFind markets. Open the Produce Guide to see linked markets."},
+ {"keywords":["hour","hours","open","time"],"answer":"Each market card shows its operating days and hours. The home page also has a live clock and Open Now indicator."},
+ {"keywords":["bookmark","favorite","save"],"answer":"Use the heart button on market or produce cards. Bookmarks are stored only in your current browser session and can be exported."},
+ {"keywords":["produce","vegetable","fruit","herb"],"answer":"Open Produce Guide to browse vegetables, fruits, leafy greens and herbs. You can filter by category and season."},
+ {"keywords":["contact","phone","email"],"answer":"Visit Contact Us for static contact details and a map. The site does not store submitted information on a server."},
+ {"keywords":["about","freshfind"],"answer":"FreshFind is a lightweight single-page web portal for discovering farmers markets, their schedules and typical seasonal produce."},
+ {"keywords":["hello","hi","salam","assalam"],"answer":"Hello! I am FreshFind Guide. Ask me about markets, produce, hours or bookmarks."}
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "tomatoes",
+    "name": "Tomatoes",
+    "category": "Vegetables",
+    "season": "Year-round",
+    "description": "Juicy red tomatoes for salads, sauces and everyday cooking.",
+    "markets": [
+      "Gulshan Green Farmers Market",
+      "Defence Fresh Market",
+      "North Nazimabad Community Market",
+      "Malir Harvest Market",
+      "Bahadurabad Fresh Corner"
+    ],
+    "image": "https://images.pexels.com/photos/23939077/pexels-photo-23939077.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "carrots",
+    "name": "Carrots",
+    "category": "Vegetables",
+    "season": "Winter & Spring",
+    "description": "Crunchy carrots rich in color and perfect for salads, soups and snacks.",
+    "markets": [
+      "Gulshan Green Farmers Market",
+      "North Nazimabad Community Market",
+      "Clifton Organic Market",
+      "Malir Harvest Market"
+    ],
+    "image": "https://images.pexels.com/photos/18121394/pexels-photo-18121394.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "category": "Leafy Greens",
+    "season": "Cool Season",
+    "description": "Crisp leafy greens for fresh salads and sandwiches.",
+    "markets": [
+      "Gulshan Green Farmers Market",
+      "Defence Fresh Market",
+      "Clifton Organic Market",
+      "Bahadurabad Fresh Corner"
+    ],
+    "image": "https://images.pexels.com/photos/15320159/pexels-photo-15320159.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "category": "Fruits",
+    "season": "Summer",
+    "description": "Sweet seasonal mangoes sourced from local growers.",
+    "markets": [
+      "Gulshan Green Farmers Market",
+      "Malir Harvest Market"
+    ],
+    "image": "https://images.pexels.com/photos/30893290/pexels-photo-30893290.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "category": "Vegetables",
+    "season": "Summer",
+    "description": "Cool, crisp cucumbers for salads, raita and refreshing snacks.",
+    "markets": [
+      "Gulshan Green Farmers Market",
+      "Defence Fresh Market",
+      "Malir Harvest Market"
+    ],
+    "image": "https://images.pexels.com/photos/38780488/pexels-photo-38780488.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "radish",
+    "name": "Radish",
+    "category": "Vegetables",
+    "season": "Winter",
+    "description": "Peppery root vegetables that add crunch to salads and sides.",
+    "markets": [
+      "Gulshan Green Farmers Market",
+      "North Nazimabad Community Market",
+      "Bahadurabad Fresh Corner"
+    ],
+    "image": "https://images.pexels.com/photos/24783856/pexels-photo-24783856.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "mint",
+    "name": "Mint",
+    "category": "Herbs",
+    "season": "Spring & Summer",
+    "description": "Fresh aromatic mint for chutneys, drinks and garnishes.",
+    "markets": [
+      "North Nazimabad Community Market",
+      "Clifton Organic Market",
+      "Malir Harvest Market"
+    ],
+    "image": "https://images.pexels.com/photos/15320159/pexels-photo-15320159.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "category": "Fruits",
+    "season": "Seasonal",
+    "description": "Creamy fruit that works well in salads, toast and bowls.",
+    "markets": [
+      "Defence Fresh Market",
+      "Clifton Organic Market"
+    ],
+    "image": "https://images.pexels.com/photos/38675684/pexels-photo-38675684.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "season": "Winter",
+    "description": "Fresh green florets suitable for steaming, roasting and stir-fries.",
+    "markets": [
+      "Clifton Organic Market"
+    ],
+    "image": "https://images.pexels.com/photos/16732705/pexels-photo-16732705.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander",
+    "category": "Herbs",
+    "season": "Year-round",
+    "description": "Fragrant green herb used in chutneys, curries and salads.",
+    "markets": [
+      "North Nazimabad Community Market",
+      "Malir Harvest Market",
+      "Bahadurabad Fresh Corner"
+    ],
+    "image": "https://images.pexels.com/photos/15320159/pexels-photo-15320159.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "onions",
+    "name": "Onions",
+    "category": "Vegetables",
+    "season": "Year-round",
+    "description": "Fresh onions for curries, salads and everyday cooking",
+    "markets": [
+      "Saddar Fresh Market",
+      "Korangi Harvest Market",
+      "North Nazimabad Community Market",
+      "Bahria Town Karachi Fresh Market"
+    ],
+    "image": "https://images.pexels.com/photos/28830895/pexels-photo-28830895.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "category": "Fruits",
+    "season": "Summer",
+    "description": "Juicy seasonal watermelon, ideal for refreshing summer snacks.",
+    "markets": [
+      "Malir Harvest Market",
+      "Gulshan Green Farmers Market",
+      "Orangi Community Fresh Market",
+      "Landhi Fresh Produce Market"
+    ],
+    "image": "https://images.pexels.com/photos/32479168/pexels-photo-32479168.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "category": "Fruits",
+    "season": "Autumn & Winter",
+    "description": "Crisp apples for snacks, salads and fresh fruit bowls.",
+    "markets": [
+      "Clifton Organic Market",
+      "Gulistan-e-Johar Fresh Market",
+      "PECHS Fresh Corner",
+      "Nazimabad Fresh Market"
+    ],
+    "image": "https://images.pexels.com/photos/13624600/pexels-photo-13624600.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "potatoes",
+    "name": "Potatoes",
+    "category": "Root Vegetables",
+    "season": "Year-round",
+    "description": "Versatile potatoes for curries, fries, baking and home cooking.",
+    "markets": [
+      "North Nazimabad Community Market",
+      "Saddar Fresh Market",
+      "Bahria Town Karachi Fresh Market",
+      "Nazimabad Fresh Market"
+    ],
+    "image": "https://images.pexels.com/photos/35522608/pexels-photo-35522608.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "category": "Leafy Greens",
+    "season": "Winter",
+    "description": "Fresh leafy spinach for saag, curries and healthy meals.",
+    "markets": [
+      "Defence Fresh Market",
+      "Bahadurabad Fresh Corner",
+      "Gulistan-e-Johar Fresh Market",
+      "Nazimabad Fresh Market"
+    ],
+    "image": "https://images.pexels.com/photos/15320159/pexels-photo-15320159.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "okra",
+    "name": "Okra",
+    "category": "Vegetables",
+    "season": "Summer",
+    "description": "Tender okra for bhindi dishes and everyday cooking.",
+    "markets": [
+      "Malir Harvest Market",
+      "Korangi Harvest Market",
+      "Landhi Fresh Produce Market"
+    ],
+    "image": "https://images.pexels.com/photos/36791064/pexels-photo-36791064.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "category": "Fruits",
+    "season": "Year-round",
+    "description": "Naturally sweet bananas for snacks, breakfast and smoothies.",
+    "markets": [
+      "North Nazimabad Community Market",
+      "Bahadurabad Fresh Corner",
+      "Bahria Town Karachi Fresh Market",
+      "Orangi Community Fresh Market"
+    ],
+    "image": "https://images.pexels.com/photos/31187612/pexels-photo-31187612.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "orange",
+    "name": "Oranges",
+    "category": "Fruits",
+    "season": "Winter",
+    "description": "Juicy oranges for fresh juice and everyday fruit bowls.",
+    "markets": [
+      "Bahadurabad Fresh Corner",
+      "Shah Faisal Fresh Market",
+      "Federal B Area Community Market"
+    ],
+    "image": "https://images.pexels.com/photos/31513729/pexels-photo-31513729.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "grapes",
+    "name": "Grapes",
+    "category": "Fruits",
+    "season": "Summer & Autumn",
+    "description": "Sweet seasonal grapes for snacks and fresh fruit platters.",
+    "markets": [
+      "Clifton Organic Market",
+      "PECHS Fresh Corner",
+      "Defence Fresh Market"
+    ],
+    "image": "https://images.pexels.com/photos/30862953/pexels-photo-30862953.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "guava",
+    "name": "Guava",
+    "category": "Fruits",
+    "season": "Autumn & Winter",
+    "description": "Fragrant guavas with a fresh, naturally sweet flavor.",
+    "markets": [
+      "Malir Harvest Market",
+      "Gulshan Green Farmers Market",
+      "Korangi Harvest Market"
+    ],
+    "image": "https://images.pexels.com/photos/33435790/pexels-photo-33435790.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "peas",
+    "name": "Green Peas",
+    "category": "Vegetables",
+    "season": "Winter",
+    "description": "Fresh green peas for curries, rice dishes and soups.",
+    "markets": [
+      "North Nazimabad Community Market",
+      "Clifton Organic Market",
+      "Nazimabad Fresh Market"
+    ],
+    "image": "https://images.pexels.com/photos/15320159/pexels-photo-15320159.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower",
+    "category": "Vegetables",
+    "season": "Winter",
+    "description": "Fresh cauliflower for curries, roasting and home cooking.",
+    "markets": [
+      "Federal B Area Community Market",
+      "North Nazimabad Community Market",
+      "Shah Faisal Fresh Market"
+    ],
+    "image": "https://images.pexels.com/photos/15320159/pexels-photo-15320159.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "capsicum",
+    "name": "Capsicum",
+    "category": "Vegetables",
+    "season": "Year-round",
+    "description": "Crisp capsicum for salads, stir-fries, pizzas and curries.",
+    "markets": [
+      "Defence Fresh Market",
+      "Clifton Organic Market",
+      "PECHS Fresh Corner"
+    ],
+    "image": "https://images.pexels.com/photos/6280412/pexels-photo-6280412.jpeg?auto=compress&cs=tinysrgb&w=900"
+  }
+]

@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local development files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Test coverage
+coverage/
+
+# Optional npm cache
+.npm/
+
+# Vite
+.vite/
+
+# OS files
+*.swp
+*.swo

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#f7faf5"/>
+<g font-family="Arial" font-size="21" text-anchor="middle">
+<rect x="60" y="250" width="170" height="100" rx="18" fill="#dfeedd" stroke="#456a49"/><text x="145" y="295">Visitor</text><text x="145" y="322">Input / Actions</text>
+<circle cx="500" cy="300" r="115" fill="#fff" stroke="#456a49" stroke-width="3"/><text x="500" y="292">FreshFind</text><text x="500" y="322">SPA Process</text>
+<rect x="850" y="80" width="250" height="90" rx="18" fill="#fff" stroke="#456a49"/><text x="975" y="135">Markets / Schedule</text>
+<rect x="850" y="210" width="250" height="90" rx="18" fill="#fff" stroke="#456a49"/><text x="975" y="265">Produce / Seasons</text>
+<rect x="850" y="340" width="250" height="90" rx="18" fill="#fff" stroke="#456a49"/><text x="975" y="395">Chatbot Rules</text>
+<rect x="360" y="480" width="280" height="90" rx="18" fill="#e9f3e5" stroke="#456a49"/><text x="500" y="535">Browser State</text>
+<path d="M230 300H385M615 250L850 125M615 290L850 255M615 330L850 385M500 415V480" stroke="#456a49" stroke-width="4" marker-end="url(#a)"/>
+</g><defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#456a49"/></marker></defs></svg>

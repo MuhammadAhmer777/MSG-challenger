@@ -1,0 +1,420 @@
+[
+  {
+    "id": "gulshan-green",
+    "name": "Gulshan Green Farmers Market",
+    "area": "Gulshan-e-Iqbal",
+    "days": [
+      "Saturday",
+      "Sunday"
+    ],
+    "hours": "08:00 AM - 02:00 PM",
+    "nextOpen": "Saturday",
+    "address": "University Road, Gulshan-e-Iqbal, Karachi",
+    "description": "A community market featuring seasonal vegetables, fruits, herbs and everyday farm produce.",
+    "produce": [
+      "Tomatoes",
+      "Carrots",
+      "Lettuce",
+      "Radish",
+      "Cucumber",
+      "Mango",
+      "Fresh Herbs",
+      "Watermelon",
+      "Guava"
+    ],
+    "image": "assets/images/Gulshan Green Farmers Market.jpg",
+    "lat": 24.9207,
+    "lng": 67.087
+  },
+  {
+    "id": "defence-fresh",
+    "name": "Defence Fresh Market",
+    "area": "DHA Phase 6",
+    "days": [
+      "Friday",
+      "Saturday"
+    ],
+    "hours": "07:30 AM - 01:30 PM",
+    "nextOpen": "Friday",
+    "address": "Kh-e-Shahbaz, DHA Phase 6, Karachi",
+    "description": "A curated weekend market for fresh produce, organic greens and local pantry essentials.",
+    "produce": [
+      "Avocado",
+      "Lettuce",
+      "Spinach",
+      "Cucumber",
+      "Tomatoes",
+      "Cherries",
+      "Organic Greens",
+      "Grapes",
+      "Capsicum"
+    ],
+    "image": "assets/images/Defence Fresh Market.jpg",
+    "lat": 24.7946,
+    "lng": 67.0609
+  },
+  {
+    "id": "north-nazimabad",
+    "name": "North Nazimabad Community Market",
+    "area": "North Nazimabad",
+    "days": [
+      "Sunday"
+    ],
+    "hours": "09:00 AM - 03:00 PM",
+    "nextOpen": "Sunday",
+    "address": "Hyderi Market Road, North Nazimabad, Karachi",
+    "description": "A neighborhood-focused market with family-friendly stalls and seasonal produce.",
+    "produce": [
+      "Carrots",
+      "Radish",
+      "Tomatoes",
+      "Potatoes",
+      "Bananas",
+      "Mint",
+      "Coriander",
+      "Onions",
+      "Green Peas",
+      "Cauliflower"
+    ],
+    "image": "assets/images/North Nazimabad Community Market.jpg",
+    "lat": 24.9462,
+    "lng": 67.034
+  },
+  {
+    "id": "clifton-organic",
+    "name": "Clifton Organic Market",
+    "area": "Clifton",
+    "days": [
+      "Thursday",
+      "Saturday"
+    ],
+    "hours": "08:30 AM - 02:30 PM",
+    "nextOpen": "Saturday",
+    "address": "Block 4, Clifton, Karachi",
+    "description": "Fresh organic vegetables, fruit baskets, herbs and selected natural products.",
+    "produce": [
+      "Broccoli",
+      "Avocado",
+      "Carrots",
+      "Lettuce",
+      "Apples",
+      "Berries",
+      "Mint",
+      "Grapes",
+      "Green Peas",
+      "Capsicum"
+    ],
+    "image": "assets/images/Clifton Organic Market.jpg",
+    "lat": 24.8138,
+    "lng": 67.03
+  },
+  {
+    "id": "malir-harvest",
+    "name": "Malir Harvest Market",
+    "area": "Malir",
+    "days": [
+      "Tuesday",
+      "Friday"
+    ],
+    "hours": "07:00 AM - 01:00 PM",
+    "nextOpen": "Friday",
+    "address": "Malir Halt, Malir, Karachi",
+    "description": "Local growers bring affordable seasonal vegetables, fruits and herbs to the neighborhood.",
+    "produce": [
+      "Mango",
+      "Tomatoes",
+      "Cucumber",
+      "Carrots",
+      "Okra",
+      "Coriander",
+      "Mint",
+      "Watermelon",
+      "Guava"
+    ],
+    "image": "assets/images/Malir Harvest Market.jpg",
+    "lat": 24.8898,
+    "lng": 67.1882
+  },
+  {
+    "id": "bahadurabad",
+    "name": "Bahadurabad Fresh Corner",
+    "area": "Bahadurabad",
+    "days": [
+      "Wednesday",
+      "Sunday"
+    ],
+    "hours": "08:00 AM - 01:30 PM",
+    "nextOpen": "Sunday",
+    "address": "Tariq Road Extension, Bahadurabad, Karachi",
+    "description": "A compact local market with fruits, vegetables and fresh greens.",
+    "produce": [
+      "Lettuce",
+      "Spinach",
+      "Radish",
+      "Tomatoes",
+      "Oranges",
+      "Bananas",
+      "Coriander"
+    ],
+    "image": "assets/images/Bahadurabad Fresh Corner.jpg",
+    "lat": 24.8825,
+    "lng": 67.0718
+  },
+  {
+    "id": "bahria-town",
+    "name": "Bahria Town Karachi Fresh Market",
+    "area": "Bahria Town Karachi",
+    "days": [
+      "Saturday",
+      "Sunday"
+    ],
+    "hours": "08:00 AM - 03:00 PM",
+    "nextOpen": "Saturday",
+    "address": "Bahria Town Karachi, Karachi",
+    "description": "A convenient community market for fresh fruits, vegetables, herbs and everyday produce.",
+    "produce": [
+      "Tomatoes",
+      "Carrots",
+      "Cucumber",
+      "Potatoes",
+      "Bananas",
+      "Mint",
+      "Coriander",
+      "Onions"
+    ],
+    "image": "assets/images/Bahria Town Karachi Fresh Market.jpg",
+    "lat": 24.9056,
+    "lng": 67.1795
+  },
+  {
+    "id": "saddar-fresh",
+    "name": "Saddar Fresh Market",
+    "area": "Saddar",
+    "days": [
+      "Monday",
+      "Wednesday",
+      "Saturday"
+    ],
+    "hours": "08:00 AM - 02:00 PM",
+    "nextOpen": "Saturday",
+    "address": "Saddar, Karachi",
+    "description": "A central Karachi market area with fresh vegetables, fruits and herbs for everyday shopping.",
+    "produce": [
+      "Tomatoes",
+      "Potatoes",
+      "Onions",
+      "Mango",
+      "Bananas",
+      "Coriander"
+    ],
+    "image": "assets/images/Saddar Fresh Market.jpg",
+    "lat": 24.8585,
+    "lng": 67.0099
+  },
+  {
+    "id": "johar-fresh",
+    "name": "Gulistan-e-Johar Fresh Market",
+    "area": "Gulistan-e-Johar",
+    "days": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ],
+    "hours": "08:00 AM - 02:30 PM",
+    "nextOpen": "Friday",
+    "address": "Gulistan-e-Johar, Karachi",
+    "description": "A neighborhood market with seasonal produce, fresh greens and locally sourced fruits.",
+    "produce": [
+      "Lettuce",
+      "Spinach",
+      "Tomatoes",
+      "Cucumber",
+      "Apples",
+      "Oranges",
+      "Mint"
+    ],
+    "image": "https://images.pexels.com/photos/3297455/pexels-photo-3297455.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "lat": 24.918,
+    "lng": 67.133
+  },
+  {
+    "id": "fb-area",
+    "name": "Federal B Area Community Market",
+    "area": "Federal B Area",
+    "days": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "hours": "07:30 AM - 01:30 PM",
+    "nextOpen": "Saturday",
+    "address": "Federal B Area, Karachi",
+    "description": "A local community market offering affordable vegetables, fruits and fresh herbs.",
+    "produce": [
+      "Carrots",
+      "Radish",
+      "Tomatoes",
+      "Potatoes",
+      "Bananas",
+      "Coriander",
+      "Oranges",
+      "Cauliflower"
+    ],
+    "image": "assets/images/Federal B Area Community Market.jpg",
+    "lat": 24.928,
+    "lng": 67.06
+  },
+  {
+    "id": "pechs-market",
+    "name": "PECHS Fresh Corner",
+    "area": "PECHS",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "hours": "08:30 AM - 02:00 PM",
+    "nextOpen": "Sunday",
+    "address": "PECHS, Karachi",
+    "description": "A convenient city market featuring fresh produce, greens and seasonal fruit.",
+    "produce": [
+      "Avocado",
+      "Lettuce",
+      "Broccoli",
+      "Apples",
+      "Berries",
+      "Cucumber",
+      "Grapes",
+      "Capsicum"
+    ],
+    "image": "assets/images/PECHS Fresh Corner.jpg",
+    "lat": 24.865,
+    "lng": 67.072
+  },
+  {
+    "id": "korangi-harvest",
+    "name": "Korangi Harvest Market",
+    "area": "Korangi",
+    "days": [
+      "Tuesday",
+      "Saturday"
+    ],
+    "hours": "07:00 AM - 01:00 PM",
+    "nextOpen": "Saturday",
+    "address": "Korangi, Karachi",
+    "description": "A neighborhood market focused on fresh and affordable seasonal vegetables and fruits.",
+    "produce": [
+      "Tomatoes",
+      "Potatoes",
+      "Onions",
+      "Okra",
+      "Mango",
+      "Coriander",
+      "Guava"
+    ],
+    "image": "assets/images/Korangi Harvest Market.jpg",
+    "lat": 24.835,
+    "lng": 67.129
+  },
+  {
+    "id": "shah-faisal",
+    "name": "Shah Faisal Fresh Market",
+    "area": "Shah Faisal Colony",
+    "days": [
+      "Wednesday",
+      "Friday",
+      "Sunday"
+    ],
+    "hours": "07:30 AM - 01:30 PM",
+    "nextOpen": "Friday",
+    "address": "Shah Faisal Colony, Karachi",
+    "description": "A local market with everyday fruits, vegetables and fresh herbs.",
+    "produce": [
+      "Carrots",
+      "Cucumber",
+      "Tomatoes",
+      "Bananas",
+      "Oranges",
+      "Mint",
+      "Cauliflower"
+    ],
+    "image": "assets/images/Shah Faisal Fresh Market.jpg",
+    "lat": 24.875,
+    "lng": 67.128
+  },
+  {
+    "id": "nazimabad-fresh",
+    "name": "Nazimabad Fresh Market",
+    "area": "Nazimabad",
+    "days": [
+      "Monday",
+      "Thursday",
+      "Saturday"
+    ],
+    "hours": "08:00 AM - 02:00 PM",
+    "nextOpen": "Saturday",
+    "address": "Nazimabad, Karachi",
+    "description": "A neighborhood produce market with fresh vegetables, fruits and leafy greens.",
+    "produce": [
+      "Spinach",
+      "Lettuce",
+      "Tomatoes",
+      "Potatoes",
+      "Apples",
+      "Coriander",
+      "Green Peas"
+    ],
+    "image": "assets/images/Nazimabad Fresh Market.jpg",
+    "lat": 24.91,
+    "lng": 67.035
+  },
+  {
+    "id": "orangi-community",
+    "name": "Orangi Community Fresh Market",
+    "area": "Orangi Town",
+    "days": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ],
+    "hours": "07:00 AM - 01:00 PM",
+    "nextOpen": "Friday",
+    "address": "Orangi Town, Karachi",
+    "description": "A community-focused market with seasonal produce and everyday fresh food options.",
+    "produce": [
+      "Tomatoes",
+      "Carrots",
+      "Potatoes",
+      "Bananas",
+      "Mango",
+      "Coriander",
+      "Watermelon"
+    ],
+    "image": "assets/images/Orangi Community Fresh Market.jpg",
+    "lat": 24.94,
+    "lng": 66.99
+  },
+  {
+    "id": "landhi-fresh",
+    "name": "Landhi Fresh Produce Market",
+    "area": "Landhi",
+    "days": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "hours": "07:00 AM - 01:00 PM",
+    "nextOpen": "Saturday",
+    "address": "Landhi, Karachi",
+    "description": "A local market for seasonal fruits, vegetables and fresh herbs.",
+    "produce": [
+      "Cucumber",
+      "Tomatoes",
+      "Okra",
+      "Mango",
+      "Mint",
+      "Coriander",
+      "Watermelon"
+    ],
+    "image": "assets/images/Landhi Fresh Produce Market.jpg",
+    "lat": 24.85,
+    "lng": 67.18
+  }
+]

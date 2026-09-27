@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d9f3ff"/><stop offset="1" stop-color="#f8fbff"/></linearGradient>
+ <linearGradient id="road" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b7c3cb"/><stop offset="1" stop-color="#d5dce0"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1200" height="720" fill="url(#sky)"/>
+<circle cx="1030" cy="105" r="62" fill="#fff1ad"/>
+<!-- Bahria Town style boulevard / greenery -->
+<path d="M0 490 Q180 445 360 490 T720 485 T1200 475 V720 H0Z" fill="#76ad72"/>
+<path d="M0 565 Q220 515 430 560 T850 555 T1200 535 V720 H0Z" fill="#5f9965"/>
+<path d="M0 650 H1200 V720 H0Z" fill="url(#road)"/>
+<path d="M500 720 L565 570 H635 L700 720Z" fill="#9ca8af"/>
+<path d="M585 615 h30" stroke="#f7f3cf" stroke-width="8" stroke-linecap="round"/>
+<path d="M570 660 h60" stroke="#f7f3cf" stroke-width="8" stroke-linecap="round"/>
+<!-- market building -->
+<g filter="url(#shadow)">
+ <rect x="190" y="215" width="820" height="330" rx="24" fill="#fffdf8"/>
+ <rect x="190" y="215" width="820" height="86" rx="24" fill="#2e7d62"/>
+ <rect x="190" y="275" width="820" height="26" fill="#276a55"/>
+ <text x="600" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="white">BAHRIA TOWN KARACHI</text>
+ <rect x="245" y="335" width="710" height="150" rx="18" fill="#eef7ef" stroke="#d6e8d8" stroke-width="4"/>
+ <!-- produce stalls -->
+ <g>
+  <rect x="275" y="400" width="170" height="55" rx="12" fill="#d8e8d2"/>
+  <circle cx="315" cy="385" r="29" fill="#e64b43"/><circle cx="365" cy="385" r="29" fill="#f5b335"/><circle cx="415" cy="385" r="29" fill="#7ab85a"/>
+  <rect x="515" y="400" width="170" height="55" rx="12" fill="#d8e8d2"/>
+  <circle cx="555" cy="385" r="29" fill="#f36b3c"/><circle cx="605" cy="385" r="29" fill="#d94f4f"/><circle cx="655" cy="385" r="29" fill="#70a956"/>
+  <rect x="755" y="400" width="170" height="55" rx="12" fill="#d8e8d2"/>
+  <circle cx="795" cy="385" r="29" fill="#f2c14e"/><circle cx="845" cy="385" r="29" fill="#66a95b"/><circle cx="895" cy="385" r="29" fill="#e85d4a"/>
+ </g>
+ <rect x="245" y="500" width="710" height="15" rx="7" fill="#c9ddcb"/>
+</g>
+<!-- distinctive trees -->
+<g>
+ <rect x="95" y="445" width="18" height="105" rx="8" fill="#795548"/><circle cx="104" cy="420" r="58" fill="#4f8e57"/>
+ <rect x="1080" y="440" width="18" height="110" rx="8" fill="#795548"/><circle cx="1089" cy="415" r="60" fill="#4f8e57"/>
+</g>
+<!-- label -->
+<rect x="410" y="105" width="380" height="58" rx="29" fill="white" opacity=".92"/>
+<text x="600" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#276a55">FreshFind • Local Market</text>
+</svg>

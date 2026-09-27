@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<rect width="1200" height="500" fill="#f7faf5"/>
+<g font-family="Arial" font-size="22" text-anchor="middle">
+<rect x="40" y="190" width="180" height="90" rx="18" fill="#dfeedd" stroke="#456a49"/><text x="130" y="235">Visitor</text><text x="130" y="262">Browser</text>
+<rect x="290" y="150" width="210" height="170" rx="18" fill="#fff" stroke="#456a49"/><text x="395" y="205">FreshFind SPA</text><text x="395" y="240">Home / Search</text><text x="395" y="275">Directory / Guide</text>
+<rect x="570" y="90" width="190" height="90" rx="18" fill="#fff" stroke="#456a49"/><text x="665" y="145">Markets JSON</text>
+<rect x="570" y="205" width="190" height="90" rx="18" fill="#fff" stroke="#456a49"/><text x="665" y="260">Produce JSON</text>
+<rect x="570" y="320" width="190" height="90" rx="18" fill="#fff" stroke="#456a49"/><text x="665" y="375">Chatbot JSON</text>
+<rect x="830" y="150" width="320" height="170" rx="18" fill="#e9f3e5" stroke="#456a49"/><text x="990" y="205">Dynamic Results</text><text x="990" y="240">Market Details</text><text x="990" y="275">Bookmarks / Notes</text>
+<path d="M220 235H290M500 235H570M760 145H830M760 250H830M760 365H830" stroke="#456a49" stroke-width="4" marker-end="url(#a)"/>
+</g><defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#456a49"/></marker></defs></svg>
