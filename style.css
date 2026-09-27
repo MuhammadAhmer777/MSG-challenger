@@ -1385,7 +1385,7 @@ button {
     align-items: center;
     min-height: 640px;
     padding: 75px 5.5%;
-    background-image: linear-gradient(90deg, rgba(255, 255, 255, .96) 0%, rgba(255, 255, 255, .88) 38%, rgba(255, 255, 255, .22) 72%, rgba(255, 255, 255, .08) 100%), url('./assets/fresh-produce.jpg');
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, .96) 0%, rgba(255, 255, 255, .88) 38%, rgba(255, 255, 255, .22) 72%, rgba(255, 255, 255, .08) 100%), url('/assets/fresh-produce.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
